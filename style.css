@@ -1,0 +1,36 @@
+#main{
+    background-color:
+    wheat ;
+    border: 5px solid
+    brown;
+    width: 270px;
+    border-radius: 10px;
+    padding: 10px;
+}
+#display{
+    width: 95%;
+    margin-bottom: 10px;
+    font-size: 30px;
+    padding: 5px;
+    color: olive;
+    border: 3px solid red;
+    border-radius: 9px;
+
+}
+.MyBtn{
+    background-color: thistle;
+    border: 5px solid blue;
+    border-radius: 10px;
+    font-size: 32px;
+    padding: 3px 12px;
+    margin: 0px 5px;
+    margin-bottom: 6px;
+    font-weight: bolder;
+    width:
+}
+#btn-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
